@@ -72,3 +72,12 @@
 ### 🔝 Top Contributed Project
 
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=python&theme=radical)](https://github.com/dkishorkoirala/python)
+
+### 🔝 Featured Projects
+
+[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=python&theme=radical)](https://github.com/dkishorkoirala/python)
+
+[![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=PythonProjects&theme=radical)](https://github.com/dkishorkoirala/PythonProjects.git)
+
+[![Top Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=Core_HTML&theme=radical)](https://github.com/dkishorkoirala/Core_Html.git)
+
