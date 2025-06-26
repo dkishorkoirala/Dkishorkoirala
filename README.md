@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dibash Kishor Koirala</h1>
+<h1 align="center">Hi 👋, I'm Kishor Koirala</h1>
 <h3 align="center">👨‍💻 Python Developer | 🧠 Lifelong Learner | 🚀 Exploring Code & AI</h3>
 
 ---
 
-🔭 I’m currently learning full-stack development with **Python** as my core language  
-🌱 Exploring **modules, OOP, data structures, AI, and ML**  
-💡 Always building projects to sharpen my skills  
+🔭 I’m currently learning **full-stack development with Python** as my core language  
+🌱 Diving into **backend development with Django** to build powerful web apps  
+💡 Exploring **modules, OOP, data structures, and AI**  
 📚 Following a structured roadmap to become an AI engineer  
 📍 Based in Nepal
 
@@ -37,8 +37,9 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-**Web & Database:**
+**Web & Backend:**
 <p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
