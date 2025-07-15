@@ -52,9 +52,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkishorkoirala&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkishorkoirala&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkishorkoirala&theme=github_dark" />
+</p>
 
 
-### ## 🏅 GitHub Profile Stats
+### 🏅 GitHub Profile Stats
 
 ![Dibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkishorkoirala&show_icons=true&theme=onedark)
 
@@ -62,4 +67,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkishorkoirala&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Trophy](https://github-profile-trophy.vercel.app/?username=dkishorkoirala&theme=gruvbox&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
