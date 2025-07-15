@@ -63,8 +63,12 @@
 
 
 
-### 🏆 GitHub Trophies
+### ## 🏅 My GitHub Profile Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkishorkoirala&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Dibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkishorkoirala&show_icons=true&theme=onedark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dkishorkoirala&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkishorkoirala&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
