@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishor Koirala</h1>
 <h3 align="center">👨‍💻 Python Developer | 🧠 Lifelong Learner | 🚀 Exploring Code & AI</h3>
 
----
+
 
 🔭 I’m currently learning **full-stack development with Python** as my core language  
 🌱 Diving into **backend development with Django** to build powerful web apps  
@@ -9,7 +9,7 @@
 📚 Following a structured roadmap to become an AI engineer  
 📍 Based in Nepal
 
----
+
 
 ### 🌐 Connect with Me
 
@@ -25,7 +25,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages & Tools
 
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -61,23 +61,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkishorkoirala&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
 </p>
 
----
+
 
 ### 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=dkishorkoirala&theme=radical&no-bg=true&margin-w=4)](https://github.com/dkishorkoirala)
-
----
-
-### 🔝 Top Contributed Project
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=python&theme=radical)](https://github.com/dkishorkoirala/python)
-
-### 🔝 Featured Projects
-
-[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=python&theme=radical)](https://github.com/dkishorkoirala/python)
-
-[![Top Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=PythonProjects&theme=radical)](https://github.com/dkishorkoirala/PythonProjects.git)
-
-[![Top Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=dkishorkoirala&repo=Core_HTML&theme=radical)](https://github.com/dkishorkoirala/Core_Html.git)
 
