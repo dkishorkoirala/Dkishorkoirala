@@ -54,16 +54,7 @@
 
 
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkishorkoirala&show_icons=true&theme=radical" alt="dkishorkoirala GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkishorkoirala&layout=compact&theme=radical" alt="Top Languages" height="160px"/>
-</p>
-
-
-
-### ## 🏅 My GitHub Profile Stats
+### ## 🏅 GitHub Profile Stats
 
 ![Dibash's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkishorkoirala&show_icons=true&theme=onedark)
 
