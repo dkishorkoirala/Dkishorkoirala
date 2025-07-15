@@ -65,5 +65,6 @@
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dkishorkoirala&theme=radical&no-bg=true&margin-w=4)](https://github.com/dkishorkoirala)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkishorkoirala&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
